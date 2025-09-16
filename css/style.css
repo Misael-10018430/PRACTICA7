@@ -141,5 +141,13 @@ iframe {
     .galeria-imagen{
         width: 90%;
     }
+    #menu li {
+        float: none;
+        width: 100%;
+
+    }
+    #menu li a{
+        text-align: center;
+    }
 
 }
